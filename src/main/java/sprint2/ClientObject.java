@@ -268,7 +268,7 @@ public class ClientObject implements Client, Serializable
 			// TODO Auto-generated catch block                           
 			e.printStackTrace();                                         
 		}
-		return "ok";
+		return "alert success";
 	}
 	
 }
